@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Optimize function calls to method calls (#8507)
